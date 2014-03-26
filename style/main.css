@@ -311,14 +311,14 @@ hr {
     color: #800000;
     background-image:url('sixteen.gif'); }
   .tile.tile-32 {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    color: #663300;
+    background-image:url('thirtytwo.gif'); }
   .tile.tile-64 {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    color: #AF3E3E;
+    background-image:url('64.gif'); }
   .tile.tile-128 {
-    color: #f9f6f2;
-    background: #edcf72;
+    color: #000000;
+    background-image:url('128.gif');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 480px) {
@@ -326,7 +326,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 {
     color: #f9f6f2;
-    background: #edcc61;
+    background-image:url('256.gif');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 480px) {
