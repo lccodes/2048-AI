@@ -1,7 +1,8 @@
 # Brown University 2048
 
 Each image is changed to something from Brown and the colors are changed to Brown's colors.
-
+Play it [here](http://lccodes.github.io/2048-AI/).
+--------------------------------------------------------------------------------------------------------------------------
 "AI for the game [2048](https://github.com/gabrielecirulli/2048).
 
 See it in action [here](http://ov3y.github.io/2048-AI/). (Hit the auto-run button to let the AI attempt to solve it by itself)
